@@ -163,7 +163,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>mHTML</string>
+	<string>kHTML</string>
 	<key>ordering</key>
 	<array>
 		<string>581FECF3-E833-45B5-9C6F-3FE87824DD81</string>
@@ -251,6 +251,6 @@
 		<string>2AFCB76A-1D12-4520-A3B7-30A7F527DA1A</string>
 	</array>
 	<key>uuid</key>
-	<string>99BA94C1-0202-4A79-BBF5-A9279B16E2A6</string>
+	<string>99BA94C1-0202-4A79-BCF5-A9279B16E2A6</string>
 </dict>
 </plist>
