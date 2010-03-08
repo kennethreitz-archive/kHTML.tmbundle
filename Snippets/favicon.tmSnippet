@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;q${1: cite="${2:source}"}&gt;${3:$TM_SELECTED_TEXT}&lt;/q&gt;$0</string>
-	<key>keyEquivalent</key>
-	<string>^@i</string>
+	<string>&lt;link rel="icon" type="image/png" href="$1" /&gt;</string>
 	<key>name</key>
-	<string>q</string>
+	<string>favicon</string>
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>q</string>
+	<string>favicon</string>
 	<key>uuid</key>
-	<string>8586EC50-4D8B-4BD1-9C89-93EC00BA9D08</string>
+	<string>C8856EBD-0B01-4F7E-A775-93BD3409FEFD</string>
 </dict>
 </plist>
