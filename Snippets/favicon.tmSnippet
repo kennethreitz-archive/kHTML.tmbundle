@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>text.html</string>
 	<key>tabTrigger</key>
-	<string>favicon</string>
+	<string>fav</string>
 	<key>uuid</key>
 	<string>C8856EBD-0B01-4F7E-A775-93BD3409FEFD</string>
 </dict>

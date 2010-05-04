@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img href="$1"${2: title="${3:name}"} /&gt;</string>
+	<string>&lt;img src="$1"${2: title="${3:name}"} /&gt;</string>
 	<key>name</key>
 	<string>img</string>
 	<key>scope</key>
