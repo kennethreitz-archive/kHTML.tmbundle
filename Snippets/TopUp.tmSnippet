@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/javascript" src="http://gettopup.com/releases/latest/top_up-min.js"&gt;&lt;/script&gt;</string>
+	<key>name</key>
+	<string>TopUp</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>topup</string>
+	<key>uuid</key>
+	<string>3E295B50-6121-42FC-901F-4927095491B2</string>
+</dict>
+</plist>

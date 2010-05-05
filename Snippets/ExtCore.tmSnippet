@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/ext-core/3.1.0/ext-core.js"&gt;&lt;/script&gt;</string>
+	<key>name</key>
+	<string>ExtCore</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>ext</string>
+	<key>uuid</key>
+	<string>83BCC3E8-5C7A-4CD7-A280-DAE93FD5F9E0</string>
+</dict>
+</plist>
